@@ -26,7 +26,7 @@ const AnimeList = ({ animelist, setAnimeInfo, animeComponent, handleList }) => {
                             </div>
                         )
                     })
-                ) : 'Not Found'
+                ) : 'Finding Anime :)'
             }
         </>
     )
